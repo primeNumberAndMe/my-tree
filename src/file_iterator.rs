@@ -57,6 +57,7 @@ pub struct FileContainer {
     pub config: CliConfig,  //cliConfig
 }
 
+//将栈的push和pop抽象为一个迭代器
 impl Iterator for FileContainer {
     type Item = FileItem;  //关联类型
     //第一个是target_dir
