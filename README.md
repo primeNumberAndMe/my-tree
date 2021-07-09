@@ -16,7 +16,7 @@ This project was created mainly for fun, I wanna try to see if I could write a c
 
 
 
-## Instal
+## Manual Installation
 
 > Note: this install guide assumes you are using a Unix-like operation system.
 
